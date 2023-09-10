@@ -76,6 +76,3 @@ Now go to the link in blue color which is shown on the CLI and you will be able 
 ### `Other commands have been mentioned in the documentaion website.` [Have a look](https://docs.textbase.ai/usage) 😃!
 
 
-## Contributions
-
-Contributions are welcome! Please open an issue or create a pull request.
